@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WonderWine",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/print-cut-1_1.ico",
-    "mbrsiteDomain": "hqp5dq6n0u",
+    "mbrsiteDomain": "1grckrem5d",
     "usedWebp": true,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -77,7 +77,7 @@
     "witsec-jquery": false
   },
   "pages": {
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "WonderWine",
